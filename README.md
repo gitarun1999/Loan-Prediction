@@ -35,6 +35,4 @@ Choose appropriate classification algorithms (e.g., Logistic Regression, Decisio
 Train the model(s) on the training set.
 
 ### Model Evaluation:
-Evaluate the model's performance using appropriate metrics (e.g., accuracy )
-
-
+Evaluate the model's performance using appropriate metrics (e.g accuracy)
