@@ -2,7 +2,7 @@
 The dataset consists of 615 rows and 13 columns. 
 The goal is to predict the Loan_Status, which indicates whether a loan will be approved (Y) or not (N).
 
-# Variables and Descriptions
+## Variables and Descriptions
 Loan_ID: Unique identifier for each loan.
 Gender: Gender of the applicant (Male/Female).
 Married: Marital status of the applicant (Y/N).
@@ -17,7 +17,7 @@ Credit_History: Indicates if the applicant's credit history meets the guidelines
 Property_Area: Type of area where the property is located (Urban/Semi Urban/Rural).
 Loan_Status: The target variable indicating if the loan is approved (Y/N).
 
-# Steps to Implement the Project
+### Steps to Implement the Project
 Data Preprocessing:
 Handle missing values.
 Encode categorical variables.
@@ -25,16 +25,16 @@ Feature scaling (if necessary).
 Exploratory Data Analysis (EDA):
 
 ### Analyze distributions of features.
-# Visualize relationships between features and the target variable.
+### Visualize relationships between features and the target variable.
 
-# Feature Engineering:
+### Feature Engineering:
 Create new features or modify existing ones based on domain knowledge.
 Model Building:
 Split the data into training and testing sets.
 Choose appropriate classification algorithms (e.g., Logistic Regression, Decision Trees, Random Forest, etc.).
 Train the model(s) on the training set.
 
-# Model Evaluation:
+### Model Evaluation:
 Evaluate the model's performance using appropriate metrics (e.g., accuracy )
 
 
