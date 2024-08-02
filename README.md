@@ -24,7 +24,7 @@ Encode categorical variables.
 Feature scaling (if necessary).
 Exploratory Data Analysis (EDA):
 
-# Analyze distributions of features.
+### Analyze distributions of features.
 # Visualize relationships between features and the target variable.
 
 # Feature Engineering:
